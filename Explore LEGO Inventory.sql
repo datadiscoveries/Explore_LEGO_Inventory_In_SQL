@@ -1,6 +1,4 @@
---data files loaded to SSMS: rebrickable.com/downloads
-	-- data is updated daily
-
+--Data source: rebrickable.com/downloads. The data is updated daily
 
 
 -- create main view to pull analytics queries from

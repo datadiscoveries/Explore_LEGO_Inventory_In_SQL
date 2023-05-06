@@ -1,5 +1,5 @@
 # Explore LEGO Inventory in SQL
-Creates a few interesting queries to learn about inventory quantity rankings on LEGO sets and parts. This exploration includes at least one example of each of the following SQL concepts and statements: window functions, aggregate functions, views, case statements, CTE's, multiple joins, substrings, altered views, filters, sorts, "cast", and "is not null."
+This SQL script returns analytics to learn about inventory quantity rankings for LEGO sets and parts. This exploration includes window functions, aggregate functions, views, case statements, CTE's, multiple joins, substrings, altered views, filters, sorts, "cast" statements, and "is not null" statements.
 
 Click [here](https://rebrickable.com/downloads/) for all data sets used in this project. The data is updated daily.
 
